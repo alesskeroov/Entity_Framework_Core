@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EFCrudOperations", "src\EFC
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EFQuerying", "src\EFQuerying\EFQuerying.csproj", "{BB9EDB97-D8E4-49CC-BFD8-B6B384F45C3B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EFOtherQuerying", "src\EFOtherQuerying\EFOtherQuerying.csproj", "{F6D8C4D4-8A22-453D-9BF6-8467250DCFCF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -23,6 +25,10 @@ Global
 		{BB9EDB97-D8E4-49CC-BFD8-B6B384F45C3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BB9EDB97-D8E4-49CC-BFD8-B6B384F45C3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BB9EDB97-D8E4-49CC-BFD8-B6B384F45C3B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F6D8C4D4-8A22-453D-9BF6-8467250DCFCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6D8C4D4-8A22-453D-9BF6-8467250DCFCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6D8C4D4-8A22-453D-9BF6-8467250DCFCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6D8C4D4-8A22-453D-9BF6-8467250DCFCF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -30,6 +36,7 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{AAF86444-04E9-4D68-B876-7B6048BDA723} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
 		{BB9EDB97-D8E4-49CC-BFD8-B6B384F45C3B} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
+		{F6D8C4D4-8A22-453D-9BF6-8467250DCFCF} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {D2146040-F760-48E3-921B-CFA001D925B2}
