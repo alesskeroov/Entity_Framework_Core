@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\elesg\\OneDrive\\Desktop\\Entitiy_Framework_Core\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{446379CA-0C19-4256-A964-DC72DB29334A}|EFOtherQuerying\\EFOtherQuerying.csproj|c:\\users\\elesg\\onedrive\\desktop\\entitiy_framework_core\\efotherquerying\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{446379CA-0C19-4256-A964-DC72DB29334A}|EFOtherQuerying\\EFOtherQuerying.csproj|solutionrelative:efotherquerying\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F6D8C4D4-8A22-453D-9BF6-8467250DCFCF}|src\\EFOtherQuerying\\EFOtherQuerying.csproj|c:\\users\\elesg\\onedrive\\desktop\\entitiy_framework_core\\src\\efotherquerying\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6D8C4D4-8A22-453D-9BF6-8467250DCFCF}|src\\EFOtherQuerying\\EFOtherQuerying.csproj|solutionrelative:src\\efotherquerying\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BB9EDB97-D8E4-49CC-BFD8-B6B384F45C3B}|src\\EFQuerying\\EFQuerying.csproj|c:\\users\\elesg\\onedrive\\desktop\\entitiy_framework_core\\src\\efquerying\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -13,6 +13,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{AAF86444-04E9-4D68-B876-7B6048BDA723}|src\\EFCrudOperations\\EFCrudOperations.csproj|c:\\users\\elesg\\onedrive\\desktop\\entitiy_framework_core\\src\\efcrudoperations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AAF86444-04E9-4D68-B876-7B6048BDA723}|src\\EFCrudOperations\\EFCrudOperations.csproj|solutionrelative:src\\efcrudoperations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\elesg\\OneDrive\\Desktop\\Entitiy_Framework_Core\\EFOtherQuerying\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:EFOtherQuerying\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -36,14 +40,25 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\elesg\\OneDrive\\Desktop\\Entitiy_Framework_Core\\src\\EFOtherQuerying\\Program.cs",
+              "RelativeDocumentMoniker": "src\\EFOtherQuerying\\Program.cs",
+              "ToolTip": "C:\\Users\\elesg\\OneDrive\\Desktop\\Entitiy_Framework_Core\\src\\EFOtherQuerying\\Program.cs",
+              "RelativeToolTip": "src\\EFOtherQuerying\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAADwAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-19T12:38:10.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\elesg\\OneDrive\\Desktop\\Entitiy_Framework_Core\\EFOtherQuerying\\Program.cs",
               "RelativeDocumentMoniker": "EFOtherQuerying\\Program.cs",
               "ToolTip": "C:\\Users\\elesg\\OneDrive\\Desktop\\Entitiy_Framework_Core\\EFOtherQuerying\\Program.cs",
               "RelativeToolTip": "EFOtherQuerying\\Program.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAUwDMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-19T11:59:45.119Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-19T11:59:45.119Z"
             },
             {
               "$type": "Document",

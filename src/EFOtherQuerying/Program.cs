@@ -53,3 +53,16 @@ var StartsWithPerson = await context.People.Where(p => p.Name.StartsWith("R")).T
 var EndsWithPerson = await context.People.Where(p => p.Name.EndsWith("n")).ToListAsync();
 #endregion
 
+#region ToDictionaryAsync
+var ToDictionaryPerson = await context.People.ToDictionaryAsync(p => p.Id, p => p.Name);//ToDictionaryAsync metodu verilənlər bazasındakı qeydləri müəyyən bir xüsusiyyətə (property) görə açar (key) və dəyər (value) cütləri şəklində bir lüğət (dictionary) halına gətirmək üçün istifadə olunur. Geriyə Dictionary<TKey, TValue> tipində bir lüğət qaytarır.
+#endregion
+
+#region ToArrayAsync
+var ToArrayPerson = await context.People.ToArrayAsync();//ToArrayAsync metodu verilənlər bazasındakı qeydləri bir massiv (array) halına gətirmək üçün istifadə olunur. Geriyə T[] tipində bir massiv qaytarır.
+#endregion
+
+#region Select
+var SelectPerson = await context.People.Select(p => new { p.Id, p.Name }).ToListAsync();//Select metodu verilənlər bazasındakı qeydləri müəyyən bir xüsusiyyətə (property) görə seçmək üçün istifadə olunur. Geriyə həmin xüsusiyyətlərin tipinə uyğun dəyərlərin siyahısını qaytarır.
+#endregion
+
+
