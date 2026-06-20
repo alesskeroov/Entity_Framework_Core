@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EFOtherQuerying")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f7b8c1accee0c51cbe03cc66ea185430cf6ee34e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b9fc62c8c7bb4d4d916815c0399389d3c30554ad")]
 [assembly: System.Reflection.AssemblyProductAttribute("EFOtherQuerying")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EFOtherQuerying")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

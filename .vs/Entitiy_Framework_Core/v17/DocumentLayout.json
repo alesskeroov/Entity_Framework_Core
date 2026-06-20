@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\elesg\\OneDrive\\Desktop\\Entitiy_Framework_Core\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{501B9899-090A-4BAD-8C2C-1A0DC4EF3E31}|src\\EFChangeTracker\\EFChangeTracker.csproj|c:\\users\\elesg\\onedrive\\desktop\\entitiy_framework_core\\src\\efchangetracker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{501B9899-090A-4BAD-8C2C-1A0DC4EF3E31}|src\\EFChangeTracker\\EFChangeTracker.csproj|solutionrelative:src\\efchangetracker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAF86444-04E9-4D68-B876-7B6048BDA723}|src\\EFCrudOperations\\EFCrudOperations.csproj|c:\\users\\elesg\\onedrive\\desktop\\entitiy_framework_core\\src\\efcrudoperations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAF86444-04E9-4D68-B876-7B6048BDA723}|src\\EFCrudOperations\\EFCrudOperations.csproj|solutionrelative:src\\efcrudoperations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F6D8C4D4-8A22-453D-9BF6-8467250DCFCF}|src\\EFOtherQuerying\\EFOtherQuerying.csproj|c:\\users\\elesg\\onedrive\\desktop\\entitiy_framework_core\\src\\efotherquerying\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F6D8C4D4-8A22-453D-9BF6-8467250DCFCF}|src\\EFOtherQuerying\\EFOtherQuerying.csproj|solutionrelative:src\\efotherquerying\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -14,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,13 +34,39 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\elesg\\OneDrive\\Desktop\\Entitiy_Framework_Core\\src\\EFCrudOperations\\Program.cs",
+              "RelativeDocumentMoniker": "src\\EFCrudOperations\\Program.cs",
+              "ToolTip": "C:\\Users\\elesg\\OneDrive\\Desktop\\Entitiy_Framework_Core\\src\\EFCrudOperations\\Program.cs",
+              "RelativeToolTip": "src\\EFCrudOperations\\Program.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-20T10:16:37.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\elesg\\OneDrive\\Desktop\\Entitiy_Framework_Core\\src\\EFChangeTracker\\Program.cs",
+              "RelativeDocumentMoniker": "src\\EFChangeTracker\\Program.cs",
+              "ToolTip": "C:\\Users\\elesg\\OneDrive\\Desktop\\Entitiy_Framework_Core\\src\\EFChangeTracker\\Program.cs",
+              "RelativeToolTip": "src\\EFChangeTracker\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-20T10:16:25.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\elesg\\OneDrive\\Desktop\\Entitiy_Framework_Core\\src\\EFOtherQuerying\\Program.cs",
               "RelativeDocumentMoniker": "src\\EFOtherQuerying\\Program.cs",
               "ToolTip": "C:\\Users\\elesg\\OneDrive\\Desktop\\Entitiy_Framework_Core\\src\\EFOtherQuerying\\Program.cs",
               "RelativeToolTip": "src\\EFOtherQuerying\\Program.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAuwEIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEUAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-19T12:38:10.68Z",
               "EditorCaption": ""

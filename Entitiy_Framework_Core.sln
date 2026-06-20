@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EFQuerying", "src\EFQueryin
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EFOtherQuerying", "src\EFOtherQuerying\EFOtherQuerying.csproj", "{F6D8C4D4-8A22-453D-9BF6-8467250DCFCF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EFChangeTracker", "src\EFChangeTracker\EFChangeTracker.csproj", "{501B9899-090A-4BAD-8C2C-1A0DC4EF3E31}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -29,6 +31,10 @@ Global
 		{F6D8C4D4-8A22-453D-9BF6-8467250DCFCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F6D8C4D4-8A22-453D-9BF6-8467250DCFCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F6D8C4D4-8A22-453D-9BF6-8467250DCFCF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{501B9899-090A-4BAD-8C2C-1A0DC4EF3E31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{501B9899-090A-4BAD-8C2C-1A0DC4EF3E31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{501B9899-090A-4BAD-8C2C-1A0DC4EF3E31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{501B9899-090A-4BAD-8C2C-1A0DC4EF3E31}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -37,6 +43,7 @@ Global
 		{AAF86444-04E9-4D68-B876-7B6048BDA723} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
 		{BB9EDB97-D8E4-49CC-BFD8-B6B384F45C3B} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
 		{F6D8C4D4-8A22-453D-9BF6-8467250DCFCF} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
+		{501B9899-090A-4BAD-8C2C-1A0DC4EF3E31} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {D2146040-F760-48E3-921B-CFA001D925B2}

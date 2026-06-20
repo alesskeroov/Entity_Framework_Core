@@ -65,4 +65,7 @@ var ToArrayPerson = await context.People.ToArrayAsync();//ToArrayAsync metodu ve
 var SelectPerson = await context.People.Select(p => new { p.Id, p.Name }).ToListAsync();//Select metodu verilənlər bazasındakı qeydləri müəyyən bir xüsusiyyətə (property) görə seçmək üçün istifadə olunur. Geriyə həmin xüsusiyyətlərin tipinə uyğun dəyərlərin siyahısını qaytarır.
 #endregion
 
+#region GroupBy
+var GroupByPerson = await context.People.GroupBy(p => p.Name).ToListAsync();
+#endregion
 
